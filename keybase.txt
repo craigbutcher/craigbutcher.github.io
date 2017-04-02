@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/legobot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://craigbutcher.xyz
+  * I am legobot (https://keybase.io/legobot) on keybase.
+  * I have a public key with fingerprint 7FDC B51B 8FEE 0F53 394C  873A B0F2 293B 05A8 E7E9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010128f8e9ce3f6e1d8819ed301a6060055c9842de13765473200e60beaa67d2ddc30a",
+            "fingerprint": "7fdcb51b8fee0f53394c873ab0f2293b05a8e7e9",
+            "host": "keybase.io",
+            "key_id": "b0f2293b05a8e7e9",
+            "kid": "010128f8e9ce3f6e1d8819ed301a6060055c9842de13765473200e60beaa67d2ddc30a",
+            "uid": "5d20df22e79b67ddbb25d2daab2def19",
+            "username": "legobot"
+        },
+        "revoke": {
+            "sig_ids": [
+                "2a58a8fe35007f797fbf53eee883c13ae3de2739acc114251a3f6fc6852f3b060f"
+            ]
+        },
+        "service": {
+            "hostname": "craigbutcher.xyz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1491165041,
+    "expire_in": 157680000,
+    "prev": "b49984025235ea1180b6b5ef962a84b0fe79e5f9e50844147bf404a610578702",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMJxAnicrVJbaBVHGD6JVtOAF7yhWLSdFxVjnNnd2Zk9GNoilBiQaGohzYXjzM6/
+5ywnOXvc3XPMaRIEU+xbH1KqiMW2XmjFPnh5KSZQrxAJKl5IqyISba2hoLYgliji
+bNC3PnZgGXbm+7/v+79/zs+alqqtejD7XNvuxj/frRo986yUah3PbOtFMlAVlO5F
+eZjaoEtBFGfyvkJphAkmBvc4OC6Yng1EcU4cUCYmwsY2xpS6DrcMBcRkNrWYaWAM
+NpYghM2UoZRrYoHqkOcXshAWQ78Qa1rmKVdSIrkHgD1qmo7lcmYKiT3DcEyJqeDA
+wNGFuSBKKrQ5KSKo9wN9pn8yU/b+A/8/+y5N0VFlYKWlgDlSXyspDX2khJCawSOJ
+bimCsCC6QaO7IBvIIEb9dSiEcpCHJNbIz2rPEUq3I0NQLnTrJsWYecxhntQZAADn
+pktMAaYCg5mOcF1CLIMSoVvwXJtTw9O92thDnZpbC5Z9d4o8Cem1uBsKPytLsZuD
+sL6n8pm2VgyDOHCDLn2bi+NilE6cxZViAt8OMvOaKCP9gtJj0hVlCCM/KKA00Ug3
+9hNmYjmE2BRbpA5BT9EPIeMnCMpsjvVKdKCcDMVydLTYoIZJQRDCsbQlBc+xDcEt
+PTKdIlBPf5hbFrGY9CxsCZtgyjjDBkpa21YINDfTPkVWc+r0CiIuhYD6z57umJ6q
+qk3NeKs6eb+p2rfnvnnV8p2a1LVfH27q3lg9OPsvZ8vFYeYfaqn59kn6dhP/+uTN
+8uIR/8TAow2j28cm9y7J0BuX+vDnL+5nvmq92XBgMKppHelomr6suf3LnDu/Ovd3
+XbR7ondnSvW2/7hgOS9fONDXeX3P0R13P0y1P2u69/zSkeGZdwcbth69veSfwV+u
+vGhs7vt3ZVt6fMXe/d1PtwxV1sy6/DDff2tdB+CTnzSSYw8auo5frYzPm1z0RXrt
+B09P3N+8Lz/0/kq5evn650/++P7y77sef/Pde58eh4WbXDx/Av0A9w4uXda2f8+d
+j+acapqcV9o31DKw6mJN5+Tw2G87c4dfrh9p+enniQ2ji5s/3tGzaGyg/iBat+sV
+GuheOQ==
+=J6iP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/legobot
+
+==================================================================
