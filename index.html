@@ -72,18 +72,14 @@
 		<p>Creating a personal website is _hard_.</p>
 		<p>Especially when having a young family, busy lifestyle, and tons of notepads with ideas on them.</p>
 		<p>And the odd retro gaming that never ends.</p>
-		<p>The nag counter is around 424523 now when people ask me "Hey! When is your site going live?"</p>
+		<p>The nag counter is around <span class="counter"></span> now when people ask me "Hey! When is your site going live?"</p>
 		<p>I put down my notebook and reply with a dry warm tone.......... "When it's ready".</p>
 	</article>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-38326936-5', 'auto');
-  ga('send', 'pageview');
-</script>
+	<script>
+		const randomNumber = Math.floor(Math.random()*100000);
+		document.getElementsByClassName("counter")[0].innerHTML = randomNumber;
+	</script>
 
 </body>
 </html>
