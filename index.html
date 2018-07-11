@@ -17,13 +17,7 @@
 	}
 
 	 body {
-	/*	background-image: url("IMG_0696.jpg");;
-		background-position: center center;
-		background-repeat: repeat;
-		background-size: cover;
-		position: fixed;
-	*/
-		font-family: Helvetica, Arial;
+                font-family: 'IBM Plex Sans Condensed', sans-serif;
 	}
 	header {
 		background: #fff;
@@ -43,22 +37,23 @@
 
 	h1 {
 		font-size: 3.2rem;
+                font-weight: 300;
 		padding: 10px;
 	}
 
 	h2 {
 		font-size: 2rem;
+                margin: 0 0 0 0.75rem;
 	}
 	article, code {
-		padding: 0 0 0 5em;
+		padding: 1rem 0 0 2.75rem;
 	}
 	code {
 		background-color: #f7f7f7;
 	}
 	p {
 		font-size: 1rem;
-		padding: 0 0.5em 0;
-		line-height: 2em;
+		line-height: 2rem;
 	}
 </style>
 
@@ -68,18 +63,13 @@
 		<h1>Craig Butcher</h1>
 		<h2>Front End Web Developer</h2>
 	</header>
-	<article>
-		<p>Creating a personal website is _hard_.</p>
-		<p>Especially when having a young family, busy lifestyle, and tons of notepads with ideas on them.</p>
-		<p>And the odd retro gaming that never ends.</p>
-		<p>The nag counter is around <span class="counter"></span> now when people ask me "Hey! When is your site going live?"</p>
-		<p>I put down my notebook and reply with a dry warm tone.......... "When it's ready".</p>
-	</article>
-
+        <article>
+                <p>Things are definitely happening. It has been a busy few months and I'm excited to put my blogging and whatsnot back on again.</p>
+                <p>The nag counter is now <span class="counter"></span>.</p>
+        </article>
 	<script>
 		const randomNumber = Math.floor(Math.random()*100000);
 		document.getElementsByClassName("counter")[0].innerHTML = randomNumber;
 	</script>
-
 </body>
 </html>
