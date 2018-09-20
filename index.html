@@ -11,73 +11,24 @@
 	<!-- <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:700,700i" rel="stylesheet"> -->
 
 	<title>Craig Butcher</title>
-
-<style>
-	* {
-		margin: 0;
-		padding: 0;
-	}
-
-	 body {
-		font-family: 'IBM Plex Sans Condensed', sans-serif;
-	}
-	header {
-		background: #fff;
-		display: inline-block;
-		/* margin: 2em 0 0 2em; */
-		opacity: 0.7;
-	}
-	h1, h2 {
-		color: #000;
-		font-weight: 900;
-		letter-spacing: -2px;
-		line-height: 70px;
-		opacity: 1;
-		text-align: left;
-		text-transform: lowercase;
-	}
-
-	h1 {
-		font-size: 3.2rem;
-		font-weight: 300;
-		padding: 10px;
-	}
-
-	h2 {
-		font-size: 2rem;
-		margin: 0 0 0 0.75rem;
-	}
-	article, code {
-		padding: 1rem;
-	}
-	code {
-		background-color: #f7f7f7;
-	}
-	p {
-		font-size: 1rem;
-		line-height: 2rem;
-	}
-
-	@media screen and (min-width: 920px) {
-		header {
-			margin: 2em 0 0 2em;
-		}
-		article, code {
-			padding: 1rem 0 0 2.75rem;
-		}
-	}
-</style>
+	<link rel="stylesheet" href="style.css">
 
 </head>
-<body>
+<body class="home">
 	<header role="banner">
 		<h1>Craig Butcher</h1>
 		<h2>Front End Web Developer</h2>
 	</header>
-	<article>
-		<p>Things are definitely happening. It has been a busy few months and I'm excited to put my blogging and whatsnot back on again.</p>
-		<p>The nag counter is now <span class="counter">0</span>.</p>
-	</article>
+	<main>
+		<nav>
+			<ul><li><a href="portfolio.html">View my web portfolio.</a></li></ul>
+		</nav>
+		<article>
+			<p>I have a portfolio online. I think I need to get the decorators in to spruce up this website.</p>
+			<p>And is quite a good barista with the Aeropress. Maybe I should write about this...</p>
+			<p>The "when is your site going to be done?" counter is now <span class="counter">0</span>.</p>
+		</article>
+	</main>
 	<script>
 		const randomNumber = () => {
 			const randomNumber = Math.floor(Math.random()*100000);
