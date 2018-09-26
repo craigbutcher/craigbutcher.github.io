@@ -1,0 +1,23 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.swo
+*.swp
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+public
+
+# NodeJS
+node_modules
+npm-debug.log
+
+# VSC Workspace
+*.code-workspace
