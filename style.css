@@ -42,6 +42,10 @@ nav ul {
 	margin: 0 0 0 2.8rem;
 }
 
+h1,h2,h3,h4,h5 {
+	margin-bottom: 1rem;
+}
+
 h1 {
 	font-size: 3.2rem;
 	font-weight: 300;
@@ -51,6 +55,10 @@ h1 {
 h2 {
 	font-size: 2rem;
 	margin: 0 0 0 0.75rem;
+}
+
+article {
+	width: 40rem;
 }
 
 article,
