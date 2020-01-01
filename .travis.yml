@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  -8
+before_script:
+  - npm install @11ty/eleventy -g
+script: eleventy --path-prefix="/"
+deploy:
+  local-dir: _site
+  provider: pages
+  skip-cleanup: true
+  gitlab-token: $GITHUB_TOKEN # need to check this - set in travis ci org dashboard?? Netlify? marked secure.
+  keep-history: true
+  on:
+    branch: master

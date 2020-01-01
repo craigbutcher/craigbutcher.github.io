@@ -1,0 +1,17 @@
+{
+    "title": "Craig Butcher",
+    "url": "https://craigbutcher.io",
+    "description": "My Personal site.",
+    "feed": {
+      "subtitle": "My Personal site.",
+      "filename": "feed.xml",
+      "path": "/feed.xml",
+      "url": "https://craigbutcher.io/feed.xml",
+      "id": "https://craigbutcher.io"
+    },
+    "author": {
+      "name": "Craig Butcher",
+      "email": "hello@craigbutcher.io"
+    }
+  }
+  

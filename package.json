@@ -1,0 +1,39 @@
+{
+  "name": "craigbutcher.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal Website",
+  "author": "Craig Butcher",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "dryrun": "npx eleventy --dryrun",
+    "start": "npxeleventy --serve",
+    "watch": "npx eleventy --watch",
+    "build": "npx eleventy",
+    "debug": "DEBUG=* npx eleventy",
+    "watch:css": "node-sass -w assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
+    "build:css": "node-sass assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
+    "clean:css": "rm -rf _site/assets/css/*",
+    "combo": "npx run watch:css & npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigbutcher/craigbutcher.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/craigbutcher/craigbutcher.github.io/issues"
+  },
+  "homepage": "https://github.com/craigbutcher/craigbutcher.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy-navigation": "^0.1.1",
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
+    "luxon": "^1.12.0",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.0.2",
+    "node-sass": "4.12.0",
+    "node-sass-import": "2.0.1"
+  }
+}
