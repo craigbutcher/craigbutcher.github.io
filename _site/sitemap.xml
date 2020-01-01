@@ -3,37 +3,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://craigbutcher.io/</loc>
-    <lastmod>2019-06-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://craigbutcher.io/posts/</loc>
-    <lastmod>2019-06-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://craigbutcher.io/page-list/</loc>
-    <lastmod>2019-06-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://craigbutcher.io/tags/</loc>
-    <lastmod>2019-06-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://craigbutcher.io/tags/life/</loc>
-    <lastmod>2019-06-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://craigbutcher.io/posts/welcome/</loc>
+    <loc>https://craigbutcher.io/writing/welcome/</loc>
     <lastmod>2020-01-01</lastmod>
   </url>
   
   <url>
     <loc>https://craigbutcher.io/about/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/posts/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/page-list/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/tags/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/tags/writing/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/tags/life/</loc>
     <lastmod>2020-01-01</lastmod>
   </url>
 </urlset>

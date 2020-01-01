@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "dryrun": "npx eleventy --dryrun",
-    "start": "npxeleventy --serve",
+    "start": "npx eleventy --serve",
     "watch": "npx eleventy --watch",
     "build": "npx eleventy",
     "debug": "DEBUG=* npx eleventy",
