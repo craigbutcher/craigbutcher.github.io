@@ -21,3 +21,6 @@ npm-debug.log
 
 # VSC Workspace
 *.code-workspace
+
+# Procrastination
+.procrastination
