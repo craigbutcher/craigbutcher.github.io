@@ -13,16 +13,6 @@
   </url>
   
   <url>
-    <loc>https://craigbutcher.io/posts/</loc>
-    <lastmod>2020-01-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://craigbutcher.io/</loc>
-    <lastmod>2020-01-01</lastmod>
-  </url>
-  
-  <url>
     <loc>https://craigbutcher.io/page-list/</loc>
     <lastmod>2020-01-01</lastmod>
   </url>
@@ -39,6 +29,16 @@
   
   <url>
     <loc>https://craigbutcher.io/tags/life/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/writing/</loc>
+    <lastmod>2020-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://craigbutcher.io/</loc>
     <lastmod>2020-01-01</lastmod>
   </url>
 </urlset>
