@@ -15,12 +15,14 @@ Thumbs.db
 .settings
 public
 
-# NodeJS
-node_modules
-npm-debug.log
-
 # VSC Workspace
 *.code-workspace
 
 # Procrastination
 .procrastination
+
+# NodeJS
+_site/
+node_modules/
+package-lock.json
+npm-debug.log
