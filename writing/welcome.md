@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Welcome back.
 description: Back on the scene for 2020.
-date: 2020-01-01
+date: '2020-01-01'
 tags:
   - life
 ---
