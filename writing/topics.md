@@ -15,33 +15,31 @@ Not this time around because I have settled down on the following:
 + Accessibility
 + Mental Health
 
-To break down the list above, these are strong subjects that I talk about the most because I give a shit about it.
-Posts written of the following will be in short or long form. There will be absolutely no TL&semi;DR nonense.
+Breaking down the list above, these are strong subjects to discuss and will be in short or long form writing. There will be absolutely none of this TL&semi;DR nonsense.
 
 <h3>Front End Web Development</h3>
 
-After working in the front end headspace for over a decade and admittedly being a grouchy old fart when it comes to new fangle frameworks in about everything. Web Standards has slowly went gone off track for everyone and here we are, fighting the good fight to bring _standards_ back into things. Bit like common sense with a bionic upgrade.
+Since working in the front end web development for over a decade and admittedly turning into a grouchy old fart when it comes to new fangle frameworks. Web Standards is slowly going off track for everyone and here we are, fighting the good fight to bring _standards_ back. Let's call it common sense with a bionic upgrade.
 
 <h3>Accessibility</h3>
 
-You have no idea how much bullshit there is out there on this planet when it comes to accessibility. It is not only tied to the web. It is everywhere. Expect Captain Picard's face palm GIFs among other caches of madness.
+When it comes to accessibility, people intend to put this far down the bottom of the list. Expect Captain Picard's face palm GIF to show up when the reality of complexity overtakes simplicity. Remember, accessibility is for everyone.
 
 <h3>Mental Health</h3>
 
-There is no hiding here, it is on the rise and we need to protect our mind. My experience are my own and it's a personal journey that I would like to share with the web. The hope is that if you see something similar experience you are going through, in limbo, or found peace / absolution, please always remember to seek help and advices from friends and family.
-
+There is no hiding here because mental health is on the rise. I will be writing about my own experience of anxiety and depression that I have suffered from for years. It is going to be tricky to share yet can be empowering to change things for the better for myself and hopefully inspire others.
 
 <hr>
 
 <h4>Footer note</h4>
 
-Surely you are keen to know what other things that didn't make the list:
+Here are the things that didn't make the list, or perhaps they will show up in some form...
 
 + Creative Swearing
-+ Being Deaf and how to get away with everything (what?)
++ Being Deaf and how to get away with everything
 + Generally nonsense
 + British weather
-+ Far too many other things, there was a line written down "Talk about ants". I lost an hour researching into this,
++ Far too many other things. There was a line written down "Talk about ants". I lost an hour researching into this.
 
 <h5>TL&semi;DR</h5>
 <small>Made you look.</small>
