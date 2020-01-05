@@ -5,9 +5,15 @@ eleventyNavigation:
   order: 1
 ---
 
-<h2>Latest Posts</h2>
+<h2>Writings</h2>
 
 {% set postslist = collections.writing | head(-3) %}
 {% include "postslist.njk" %}
+
+<h2>Week notes</h2>
+
+{% set postslist = collections.blog| head(-3) %}
+{% include "postslist.njk" %}
+
 
 <p>More posts can be found in <a href="{{ '/writing/' | url }}">the archive</a>.</p>

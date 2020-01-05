@@ -15,7 +15,7 @@
     "watch:css": "node-sass -w assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
     "build:css": "node-sass assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
     "clean:css": "rm -rf _site/assets/css/*",
-    "combo": "npx run watch:css & npm run start"
+    "combo": "npm run watch:css & npm run start"
   },
   "repository": {
     "type": "git",

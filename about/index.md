@@ -7,4 +7,8 @@ eleventyNavigation:
   order: 2
 ---
 
-I am a person that writes stuff.
+Best things said in threes, fives, and sevens.
+
++ Front End Web Dev for Aviva.
++ Sweary Edgelord.
++ Has a rad bionic ear - cochlear implant if you must know.
