@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Week Note 1 - Input / Output brain dump
-description: Week Note
+title: Week Note One - Input / Output brain dump
+description: Week Note One - What are week notes? Repo and gist clean up. Books. And Finally...
 date: '2020-01-05'
 tags:
   - weeknotes

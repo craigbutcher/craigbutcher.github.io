@@ -16,12 +16,22 @@
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
       <h2>Front End Web Developer</h2>
 
-      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
+      {# {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
         listClass: "nav",
         listItemClass: "nav-item",
         activeListItemClass: "nav-item-active",
         activeKey: eleventyNavigation.key
-      }) | safe }}
+      }) | safe }} #}
+
+      {% set navPages = collections.all | eleventyNavigation %}
+      <ul>
+      {%- for entry in navPages %}
+        <li{% if entry.url == page.url %} class="my-active-class"{% endif %}>
+          <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+        </li>
+      {%- endfor %}
+        <li><a href="https://twitter.com/craigbutcher">Twitter</a></li>
+      </ul>
 
     </header>
 
