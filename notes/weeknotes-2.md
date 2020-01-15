@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Week Note Two - First week of January will devour you.
 description: Week Note Two
-date: '2020-01-05'
+date: '2020-01-12'
 tags:
   - weeknotes
 ---
