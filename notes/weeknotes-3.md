@@ -15,7 +15,7 @@ Being unwell can somehow change the cochlear implant’s (CI) production of soun
 
 ## Nintendo Switch
 
-This beats Apple at their game because mobile gaming - it’s definitely called that, don’t try and sugar coat it - because Nintendo including Microsoft and Sony has soul throughout their hardware. It’s an emotion physical connection. I cannot game on touch screen based hardware where physical hardware triumphs over software touchscreen interfaces.
+This beats Apple at their game because mobile gaming - it’s definitely called that, don’t try and sugar coat it - clearly _sucks_. Nintendo including Microsoft and Sony has soul throughout their hardware. It’s an emotion physical connection. I cannot game on touch screen based hardware where physical hardware triumphs over software touchscreen interfaces.
 
 ## Keyboard
 
