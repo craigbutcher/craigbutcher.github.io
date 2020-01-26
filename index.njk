@@ -8,13 +8,12 @@ eleventyNavigation:
 
 <h2>Writings</h2>
 
-{% set postslist = collections.writing | head(-3) %}
+{% set postslist = collections.writing | head(-5) %}
 {% include "postslist.njk" %}
 
 <h2>Week notes</h2>
 
-{% set postslist = collections.weeknotes| head(-3) %}
+{% set postslist = collections.weeknotes| head(-5) %}
 {% include "postslist.njk" %}
-
 
 {# <p>More posts can be found in <a href="{{ '/writing/' | url }}">the archive</a>.</p> #}
