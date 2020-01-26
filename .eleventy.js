@@ -15,7 +15,7 @@ module.exports = function(eleventyConfig) {
     templateFormats: ["md"],
     words: "simply,obviously,basically,of course,clearly,just,everyone knows,however,easy"
   });
-  
+
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addLayoutAlias("post", "./layouts/post.njk");
   eleventyConfig.addFilter("readableDate", dateObj => {
@@ -47,9 +47,9 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true
   }).use(markdownItAnchor, {
-    permalink: true,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
+    // permalink: true,
+    permalinkClass: "direct-link"
+    // permalinkSymbol: "#"
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
