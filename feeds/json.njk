@@ -1,0 +1,35 @@
+---
+permalink: feed/main.json
+eleventyExcludeFromCollections: true
+---
+{
+	"version" : "https://jsonfeed.org/version/1",
+	"title" : "{{ metadata.title }} - {{ metadata.feed.subtitle }}",
+	"home_page_url" : "https://craigbutcher.io",
+	"feed_url" : "https://craigbutcher.io/feeds/json",
+	"author" : {
+	"url" : "https://twitter.com/craigbutcher",
+	"name" : "Craig Butcher"
+	},
+	"items" : [
+		{%- for post in collections.all  %}
+
+		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+		{
+			"title" : "{{ post.data.title }}",
+			"date_published" : "{{ post.date | rssDate }}",
+			"date_modified" : "{{ post.date | rssDate }}",
+			"id" : "{{ absolutePostUrl}}",
+			"url" : "{{ absolutePostUrl}}",
+			"author" : {
+				"name" : "{{ metadata.author.name }}"
+			},
+			"content_html" : "{{ post.templateContent | striptags(false) }}"
+		{% if loop.revindex0 %}
+		},
+		{% elif loop.last %}
+		}
+		{% endif %}
+	{%- endfor %}
+	]
+}
