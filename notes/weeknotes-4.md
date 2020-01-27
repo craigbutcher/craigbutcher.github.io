@@ -9,7 +9,7 @@ tags:
 
 ## Books
 
-Recently, I finished reading a book by [Chris Hadfield](https://chrishadfield.ca/)'s [An Astronaut's Guide to Life](https://www.amazon.co.uk/dp/1447259947/ref=cm_sw_r_cp_ep_dp_kJcFBbZK2AVWD) and throughly enjoyed it. Most epecially the part in travelling to the [ISS (International Space Station)](https://www.nasa.gov/mission_pages/station/main/index.html), working on experiments, and landing back down to Earth. There was a great life tip that was mentioned in the book that immediately had a profound effect on me.
+Recently, I finished reading a book by [Chris Hadfield](https://chrishadfield.ca/)'s [An Astronaut's Guide to Life](https://www.amazon.co.uk/dp/1447259947/ref=cm_sw_r_cp_ep_dp_kJcFBbZK2AVWD) and throughly enjoyed it. Most especially the part in travelling to the [ISS (International Space Station)](https://www.nasa.gov/mission_pages/station/main/index.html), working on experiments, and landing back down to Earth. There was a great life tip that was mentioned in the book that immediately had a profound effect on me.
 
 > In any given situation, according to Hadfield, you’re either a ‘plus-one’, a ‘zero’ or a ‘minus-one’. If you’re a plus-one, you’re actively adding value. If you’re a zero, you’re generally competent and don’t get in the way. Being a minus-one sucks, because you’re a liability and actively cause problems.
 
