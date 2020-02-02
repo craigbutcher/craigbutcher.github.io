@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Week Note Four - Read between the lines.
-description: Week Note Three
+description: Week Note Four
 date: '2020-01-26'
 tags:
   - weeknotes
