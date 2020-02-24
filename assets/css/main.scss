@@ -4,12 +4,12 @@
 $IBM: 'IBM Plex Sans Condensed', sans-serif;
 
 
-h1, h2 {
+h1, h2, h3, h4, h5 {
     // background: $white;
     display: block;
     color: $white;
     font-family: $IBM;
-    
+    padding: 0.5em 0;    
 
     a {
         color: $white;
@@ -18,18 +18,20 @@ h1, h2 {
 }
 
 h1 {
-    padding: 0.5em 0;
+    font-size: 2rem;    
 }
 
 h2 {
     font-size: 1.8rem;
-    padding: 0.5em 0;
+}
+
+h3 {
+    font-size: 1.6rem;
 }
 
 a {
     background-color: $raisinblack;
     color: $hansayellow;
-    
 }
 
 ul {
@@ -47,10 +49,30 @@ blockquote {
 }
 
 body {
+    
     background-color: $raisinblack;
     color: $white;
     // font-family: Arial, Helvetica, sans-serif;
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
-    max-width: 80ch;
+    // max-width: 65ch;
+}
+
+@media (max-width: 26.563rem) {
+    body {
+        // border: 1px solid red;
+        max-width: 30ch;
+    }
+}
+
+@media (min-width: 26.564rem) and (max-width: 47.9rem) {
+    body {
+        max-width: 45ch;
+    }
+}
+
+@media (min-width: 48rem) {
+    body {
+        max-width: 80ch;
+    }
 }

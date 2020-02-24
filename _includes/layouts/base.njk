@@ -3,7 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ renderData.title or title or metadata.title }}</title>
+    <title>
+      {# {{ renderData.title or title }} {{ metadata.title }} #}
+      {% set pageTitle = title + ' - ' + metadata.title %}
+      {{ pageTitle }}
+
+    </title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
 
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:600|Open+Sans&display=swap" rel="stylesheet">
@@ -26,7 +31,7 @@
       {% set navPages = collections.all | eleventyNavigation %}
       <ul>
       {%- for entry in navPages %}
-        <li{% if entry.url == page.url %} class="my-active-class"{% endif %}>
+        <li{% if entry.url == page.url %} class="navigation-active"{% endif %}>
           <a href="{{ entry.url | url }}">{{ entry.title }}</a>
         </li>
       {%- endfor %}

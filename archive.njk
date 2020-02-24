@@ -1,14 +1,22 @@
 ---
-layout: layouts/home.njk
-eleventyExcludeFromCollections: true
-tags:
-    - nav
+layout: layouts/post.njk
+title: Archive
+templateClass: tmpl-post
 navTitle: Archive
-permalink: /writing/
+permalink: /archive/
+eleventyNavigation:
+  key: Archive
+  order: 3
 ---
 
-<h2>Archives</h2>
+<p>Happy reading!</p>
+
+<h3>Writing</h3>
 
 {% set postslist = collections.writing %}
+{% include "postslist.njk" %}
 
+<h3>Notes</h3>
+
+{% set postslist = collections.weeknotes %}
 {% include "postslist.njk" %}
