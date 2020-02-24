@@ -31,4 +31,4 @@ Anyone know who is [Lawrence Tesler](https://en.wikipedia.org/wiki/Larry_Tesler)
 
 > Lawrence Tesler, a pioneering computer scientist who helped make it easier for users to interact with computers, whether cutting and pasting text or selecting text by dragging a cursor through it, died on Sunday at his home in Portola Valley, Calif. He was 74.
 
-[NYTimes wrote a wonderful tribute](NYTimes wrote a wonderful tribute, here’s a snippet:). I recommend putting some time aside to read Lawrence’s incredible history.
+[NYTimes wrote a wonderful tribute](https://www.nytimes.com/2020/02/20/technology/lawrence-tesler-dead.html). I recommend putting some time aside to read Lawrence’s incredible history.
