@@ -4,7 +4,7 @@ title: Welcome back.
 description: Back on the scene for 2020.
 date: '2020-01-01'
 tags:
-  - life
+  - writing
 ---
 
 I have been trying to write the greatest start to this first blog post after six years out of blogging / writing. Mostly everything is captured into snippets on my notes.app, the annoying yet thankful friends waiting for me to get started on my site again.
