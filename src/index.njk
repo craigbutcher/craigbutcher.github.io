@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 1
 ---
 
+{{ metadata.name }}
+
 <h2>Writings</h2>
 
 {% set postslist = collections.writing | head(-5) %}
