@@ -15,7 +15,7 @@
     "watch:css": "node-sass -w src/assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
     "build:css": "node-sass src/assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
     "clean:css": "rm -rf /_site/assets/css/*",
-    "copy:keybase": "cp keybase.txt src/_site/",
+    "copy:keybase": "cp src/keybase.txt src/_site/",
     "combo": "npm run watch:css & npm run start"
   },
   "repository": {
