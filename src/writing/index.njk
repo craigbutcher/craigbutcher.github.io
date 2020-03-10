@@ -1,0 +1,13 @@
+---
+layout: layouts/home.njk
+eleventyExcludeFromCollections: true
+tags:
+    - nav
+navTitle: Archive
+---
+
+<h2>Archives</h2>
+
+{% set postslist = collections.writing %}
+
+{% include "postslist.njk" %}

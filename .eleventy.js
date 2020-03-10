@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.setDataDeepMerge(true);
-  eleventyConfig.addLayoutAlias("post", "./layouts/post.njk");
+  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'gmt'}).toFormat("dd LLL yyyy");
   });
@@ -36,9 +36,9 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
-   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
+   eleventyConfig.addCollection("tagList", require("./src/_11ty/getTagList"));
 
-   eleventyConfig.addPassthroughCopy("./assets/img");
+   eleventyConfig.addPassthroughCopy("./src/assets/img");
   //  eleventyConfig.addPassthroughCopy("./src/site/assets/css");
 
   /* Markdown Overrides */
@@ -91,9 +91,9 @@ module.exports = function(eleventyConfig) {
     dataTemplateEngine: "njk",
     passthroughFileCopy: true,
     dir: {
-      input: ".",
+      input: "src",
       includes: "_includes",
-      data: "_data",
+      data: "src/_data",
       output: "_site"
     }
   };

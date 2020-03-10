@@ -12,10 +12,10 @@
     "watch": "npx eleventy --watch",
     "build": "npm run build:css && npx eleventy && npm run copy:keybase",
     "debug": "DEBUG=* npx eleventy",
-    "watch:css": "node-sass -w assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
-    "build:css": "node-sass assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
-    "clean:css": "rm -rf _site/assets/css/*",
-    "copy:keybase": "cp keybase.txt _site/",
+    "watch:css": "node-sass -w src/assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
+    "build:css": "node-sass src/assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
+    "clean:css": "rm -rf /_site/assets/css/*",
+    "copy:keybase": "cp keybase.txt src/_site/",
     "combo": "npm run watch:css & npm run start"
   },
   "repository": {
