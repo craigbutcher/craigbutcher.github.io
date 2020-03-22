@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Week Note Ten - Positive State Nation
-description: Week Note Ten
+title: Week Note Eleven - Positive State Nation
+description: Week Note Eleven
 date: '2020-03-15'
 tags:
   - weeknotes

@@ -29,7 +29,7 @@ When it comes to accessibility, people intend to put this far down the bottom of
 
 There is no hiding here because mental health is on the rise. I will be writing about my own experience of anxiety and depression that I have suffered from for years. It is going to be tricky to share yet can be empowering to change things for the better for myself and hopefully inspire others.
 
-<hr>
+---
 
 ### Footer note
 
@@ -43,4 +43,4 @@ Here are the things that didn't make the list, or perhaps they will show up in s
 
 #### TL&semi;DR
 
-<small>Made you look.</small>
+##### Made you look
