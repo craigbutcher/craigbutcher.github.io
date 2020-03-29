@@ -13,6 +13,8 @@ Since having to work from home, reality has kicked in. "This is it, I'm confined
 
 ## Apple's hardware upgrades
 
+There has been some tasty updates by the fruit company.
+
 ### iPad Pro
 
 Somehow it has taken over the top when it comes to raising the hardware game with their custom ARM chip. The new iPad Pro has the same form factor, new cameras, [LiDAR scanner](https://en.wikipedia.org/wiki/Lidar), still talking heavily about augmented reality, and boasting an 8-core graphics processor flagging this device to be faster than most PC laptops.
@@ -20,6 +22,8 @@ Somehow it has taken over the top when it comes to raising the hardware game wit
 I'm curious how Apple tests their hardware against PCs because it seems far-fetched at this point. [Geekbench](https://www.geekbench.com/) will be heavily referenced by many to compare yet they don't feel like *real* comparison. I wonder if [Arstechnica](https://arstechnica.com/) will do a solid write up.
 
 And yes, the Magic Keyboard looks like they are trying to get into the competition against the [Microsoft Surface](https://www.microsoft.com/en-us/surface).
+
+[**Update: 29/03/2020** - It seems that it is the same as A12X with an extra GPU unlocked. From reading Daring Fireball's post about the difference, there is a good reason why it is. Check out the twitter thread via DF].
 
 ### MacBook Air
 
