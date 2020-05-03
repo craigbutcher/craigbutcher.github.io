@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Week Note Seventeen - Cameralama.
-description: Week Note Sixteen
+description: Week Note Seventeen
 date: '2020-04-26'
 tags:
   - weeknotes
