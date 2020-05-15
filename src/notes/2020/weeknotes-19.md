@@ -7,8 +7,6 @@ tags:
   - weeknotes
 ---
 
-~~strike~~
-
 ## Nothing is ever enough
 
 ... and it is not a bad thing.
