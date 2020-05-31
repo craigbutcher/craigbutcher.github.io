@@ -17,7 +17,7 @@ First, let's get the 'we already know this' crap out of the way. We already know
 
 There is more to this. We have to use devices to access the website out there. It can be either a mouse, ball mouse, touch screen, screen reader, etc. The obvious statement of 'oh, I already know about this' does not apply here. What I can strongly recommend for you is to start using those devices, investigate how they use it, use it yourself if you don't already know. I don't want this reading whatever online and then you automatically know about it. That kind of information to you is false my friend.
 
-Let me tell you something here, I am hearing impaired and I managed to get by through life with lipreading and using the latest digital hearing aids (I really appreciate everything that I hear around me, you sir/madam perhaps will never notice this at all). What frustrated me with people out there is that when they look at a website, they sign it off thinking it is just fine on terms of everything.
+Let me tell you something here, I am hearing impaired and I managed to get by through life with lipreading and using the latest digital hearing aids (I really appreciate everything that I hear around me, you sir/madam perhaps will never notice this at all). What frustrated me with people out there is that when they look at a website, they sign it off thinking it is fine on terms of everything.
 
 I rely on my eyes and I see things perhaps more than some do and in some cases, I’m a fussy person when something is misaligned by a pixel and nobody fixes it.
 

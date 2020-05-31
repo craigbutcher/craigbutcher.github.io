@@ -15,7 +15,7 @@ I prefer designing websites on paper first. When was the last time you broke out
 
 From paper to designing the framework in the web browser is considered as best practice for you to visualise what happens next. For designing graphics, I recommend using the up and coming <a href="http://www.pixelmator.com/">Pixelmator</a> because I believe that Photoshop no longer has the market in this area.
 
-Designing a website in Photoshop is just tedious, slow and unimaginable where working in the browser enable you to play and design using the latest web technology. Did you know that amazing stuff happens when you play?
+Designing a website in Photoshop is tedious, slow and unimaginable where working in the browser enable you to play and design using the latest web technology. Did you know that amazing stuff happens when you play?
 
 Clients want to see a realistic demonstration rather than a static image. They want to know how each click/tap works, the page download, how does it look on the iPad, the list goes on as there are so many factors that you can take back to improving the website. It is a playground for the clients to give us, the web designer/developer, the feedback we need.
 
