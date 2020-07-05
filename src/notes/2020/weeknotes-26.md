@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Twenty Five - Cool sweat
+title: Week Note Twenty Six - Cool sweat
 description: Week Note Twenty Six
 date: '2020-06-28'
 tags:
