@@ -9,7 +9,7 @@ tags:
 
 ## Moving utilities
 
-Moving to [Bulb](www.bulb.me/craigb1404?utm_campaign=account-referral-share&utm_medium=copy-link&utm_source=copy-button) for gas and electricity is an interesting experience and their website is straightforward to access. However, moving fibre broadband is a painful experience that takes up to two weeks for it to be connected to the premises. Thankfully, I have my mobile data connection with moderate average speed of 10mbit with hotspot enabled, it is going to be tough especially having children who likes that instant tap to streaming.
+Moving to [Bulb](www.bulb.me/craigb1404?utm_campaign=account-referral-share&utm_medium=copy-link&utm_source=copy-button) for gas and electricity is an interesting experience and their website is straightforward to access. Moving fibre broadband is a painful experience that takes up to two weeks for it to be connected to the premises. Thankfully, I have my mobile data connection with moderate average speed of 10mbit with hotspot enabled, it is going to be tough especially having children who likes that instant tap to streaming.
 
 Mind, it is nice to reintroduce them to myself as a father that provides entertainment.
 
