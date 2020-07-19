@@ -1,0 +1,188 @@
+
+/*
+
+    Craig Butcher - Style.css
+
+    1) Modern CSS Reset
+    2) Colors
+
+*/
+
+
+/*
+
+    1) Modern CSS Reset - Andy Bell
+    URL: https://hankchizljaw.com/wrote/a-modern-css-reset/
+
+*/
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* remove default padding */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* remove list styles on ul, ol elements with a class attribute */
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+/* A elrements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Natural flow and rhythm in articles by default */
+article > * + * {
+  margin-top: 1rem;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* remove all animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+
+/*
+    2) Colors
+*/
+:root {
+    --color-white: hsla(0, 100%, 100%, 1);
+    --color-raisinblack: hsla(130, 8%, 15%, 1);
+    --color-hansayellow: hsla(44.9, 80.9%, 69.2%, 1);
+    --font-IBM: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+body {
+    background-color: var(--color-raisinblack);
+    color: var(--color-white);
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+}
+
+@media (max-width: 26.563rem) {
+    body {
+        max-width: 30ch;
+    }
+}
+
+@media (min-width: 26.564rem) and (max-width: 47.9rem) {
+    body {
+        max-width: 45ch;
+    }
+}
+
+@media (min-width: 48rem) {
+    body {
+        max-width: 80ch;
+    }
+}
+
+h1, h2, h3, h4, h5 {
+    display: block;
+    color: var(--color-white);
+    font-family: var(--font-IBM);
+    padding: 0.5rem 0;
+
+    a {
+        color: var(--color-white);
+    }
+
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+a {
+    background-color: var(--color-raisinblack);
+    color: var(--color-hansayellow);
+}
+
+nav {
+    margin: 0 0 1rem;
+}
+
+ul {
+    margin: 0;
+    padding: 0 0 0 1rem;
+}
+
+p {
+    margin: 1rem 0;
+}
+
+blockquote {
+    border-left: 5px solid;
+    padding: 0 0 0 1rem;
+}
+
