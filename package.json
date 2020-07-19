@@ -12,11 +12,8 @@
     "watch": "npx eleventy --watch",
     "build": "npm run build:css && npx eleventy && npm run copy:keybase",
     "debug": "DEBUG=* npx eleventy",
-    "watch:css": "node-sass -w src/assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
-    "build:css": "node-sass src/assets/css/main.scss -o _site/assets/css/ --importer node_modules/node-sass-import",
     "clean:css": "rm -rf /_site/assets/css/*",
-    "copy:keybase": "cp src/keybase.txt _site/",
-    "combo": "npm run watch:css & npm run start"
+    "copy:keybase": "cp src/keybase.txt _site/"
   },
   "repository": {
     "type": "git",
@@ -34,8 +31,6 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
     "luxon": "^1.12.0",
     "markdown-it": "^8.4.2",
-    "markdown-it-anchor": "^5.0.2",
-    "node-sass": "^4.14.1",
-    "node-sass-import": "2.0.1"
+    "markdown-it-anchor": "^5.0.2"
   }
 }
