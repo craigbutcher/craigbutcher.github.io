@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+    11ty:
+        image: 11ty-personal-site
+        ports:
+                - "8080:8080"
+                - "3001:3001"
+        volumes:
+            - ./src:/var/www/11ty/src
+        working_dir: /var/www/11ty/
+
