@@ -9,7 +9,7 @@ tags:
 
 ## Time off
 
-The last week of August is over and done. Most of the time it was being with my sons (while my other half working for the NHS as a phlebotomist) and of course, DIY around the house that never seems to end! A lot of reflections occurred on my family, house, use of tech, and generally keeping check on my mental health.
+The last week of August is over and done. Most of the time it was being with my sons (while my other half working for the NHS as a phlebotomist) and DIY around the house that never seems to end! A lot of reflections occurred on my family, house, use of tech, and generally keeping check on my mental health.
 
 There was a dip in the middle of the week when I felt that feeling the [black dog](https://www.time-to-change.org.uk/blog/managing-black-dog-depression) was back and because we are still in a global pandemic, the feeling of having time off during this unorganised chaos was unusual to deal with because of conflicted issues of "Should I be working from home? Why am I having a crisis with this?".
 
