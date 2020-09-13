@@ -31,7 +31,7 @@ If you have [Docker](https://www.docker.com/), you can run it as:
 $ docker run -it --rm browsh/browsh
 ```
 
-Give it a shot to see what is the fast is about.
+Give it a shot to see what is the fuss is about.
 
 ## And finally...
 
