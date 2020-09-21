@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Thirty Eight -
+title: Week Note Thirty Eight - Fine.
 description: Week Note Thirty Eight
 date: '2020-09-20'
 tags:
