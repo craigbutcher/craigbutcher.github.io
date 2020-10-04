@@ -25,7 +25,7 @@ CSS Zen Garden was a great way of demonstrating CSS and understanding how it is 
 
 ## The Caretaker
 
-[The Caretaker - Everywhere At The End Of Time](https://www.youtube.com/watch?v=wJWksPWDKOc) - as a friend passed me this to listen to. I was told to listen to it for the experience and I think this will be a worthy test for the cochlear implant. Warning, read the content before playing because this is not going to be your average kind of easy listening tunes.
+[The Caretaker - Everywhere At The End Of Time](https://www.youtube.com/watch?v=wJWksPWDKOc) - as a friend passed me this to listen to. I was told to listen to it for the experience and I think this will be a worthy test for the cochlear implant. Warning, read the content before playing because this is not going to be your average kind of listening.
 
 ## And finally...
 

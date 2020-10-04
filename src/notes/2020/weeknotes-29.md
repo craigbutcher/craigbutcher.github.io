@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Twenty Nine - Just visiting
+title: Week Note Twenty Nine - Visiting
 description: Week Note Twenty Nine
 date: '2020-07-19'
 tags:
@@ -25,7 +25,7 @@ Yes, that's right, it is the default speed in the United Kingdom where other are
 
 ## Notion
 
-I do like using this app. However, it is using [Electron](https://www.electronjs.org) as a base, it eats into CPUs like chips and is sluggish to use after a while. It's a frustrating experience when typing because when you type, you want to be seeing that feedback that a) you have pressed something, and b) you want that feedback to be responsive immediately.
+I do like using this app. It is using [Electron](https://www.electronjs.org) as a base, it eats into CPUs like chips and is sluggish to use after a while. It's a frustrating experience when typing because when you type, you want to be seeing that feedback that a) you have pressed something, and b) you want that feedback to be responsive immediately.
 
 I think I am going to look for an alternative or perhaps use a native app that uses Notion API. Or construct a system that I can use Vim instead.
 

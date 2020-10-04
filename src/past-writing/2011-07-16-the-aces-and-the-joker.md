@@ -29,5 +29,5 @@ I had the joker card. The card that I say “enough is enough” to life to deal
 
 From today, the world looks completely different.
 
-The kind where you know things are just going to be awwwright.
+The kind where you know things are going to be fine.
 

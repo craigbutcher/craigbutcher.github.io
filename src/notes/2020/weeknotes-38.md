@@ -14,7 +14,7 @@ _... and that's fine._
 Something cropped up recently when I pointed out something in the code that must keep to coding standards. It provoked an debate and then an internal conflict within me on the following:
 
 1) I pointed out like everyone else has done on all code reviews.
-2) Even though, it wasn't _required_, however best practice should be encouraged.
+2) It was not needed and best practice should be encouraged.
 3) Should I reply back in details?
 
 At the end of the day, it to deal with this conflict because when it comes to being Deaf and you rely solely on replying via text chat, emails, or commenting? It is exhausting. In the end, I replied in a short message 'Okay, this is fine. I'm resolving this comment.'
@@ -42,6 +42,6 @@ Hat tip to [@NeilWarner](https://twitter.com/neilwarner) who found this on [Redd
 
 ## And finally...
 
-Why do I get the feeling that [Oracle and Walmart](https://newsroom.tiktok.com/en-us/an-update-for-our-tiktok-family) bought the shell of TikTok's US outlet? The real engine is located somewhere else abroad. Just saying...
+Why do I get the feeling that [Oracle and Walmart](https://newsroom.tiktok.com/en-us/an-update-for-our-tiktok-family) bought the shell of TikTok's US outlet? The real engine is located somewhere in another country.
 
 Stay safe, [space, space space](https://twitter.com/craigbutcher/status/1307433138185007108) for goodness sake.
