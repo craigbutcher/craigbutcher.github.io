@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Forty One -
+title: Week Note Forty One - Missing Title Innit
 description: Week Note Forty One
 date: '2020-10-11'
 tags:
