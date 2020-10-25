@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Week Note Forty Two - Flow my Tiers, a PM said.
 description: Week Note Forty Two
-date: '2020-10-19'
+date: '2020-10-18'
 tags:
   - weeknotes
 ---
