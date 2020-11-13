@@ -6,7 +6,7 @@ LABEL Description="11ty-personal-site"
 WORKDIR /var/www/11ty
 COPY package*.json ./
 COPY .eleventy* ./
-RUN npm i
+RUN npm i && npm audit fix
 
 # Expose and run server
 EXPOSE 8080

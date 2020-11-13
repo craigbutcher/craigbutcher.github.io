@@ -1,0 +1,16 @@
+{
+    "title": "Things I like",
+    "description": "Things that I like around the web",
+    "feed": {
+      "subtitle": "Things that I like around the web",
+      "filename": "feed.xml",
+      "path": "/things-that-i-like-feed.xml",
+      "url": "https://craigbutcher.io/things-that-i-like-feed.xml",
+      "id": "https://craigbutcher.io"
+    },
+    "things": {
+        "title": "Huroshi Nagai",
+        "url": "..."
+    }
+  }
+

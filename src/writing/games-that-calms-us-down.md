@@ -1,0 +1,19 @@
+---
+layout: layouts/post.njk
+title: Games that calms us down
+description: ????????????????????????
+date: '2020-07-20'
+tags:
+  - relaxation
+---
+
+## What is this about?
+
+## What games are out there?
+
+## End result
+
+## feel good factor
+
+Tetris
+Columns

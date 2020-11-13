@@ -1,0 +1,80 @@
+@import "modules/reset";
+@import "modules/colors";
+
+$IBM: 'IBM Plex Sans Condensed', sans-serif;
+
+h1, h2, h3, h4, h5 {
+    display: block;
+    color: $white;
+    font-family: $IBM;
+    padding: 0.5em 0;
+
+    a {
+        color: $white;
+    }
+
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+a {
+    background-color: $raisinblack;
+    color: $hansayellow;
+}
+
+ul {
+    margin: 0;
+    padding: 0 0 0 1em;
+}
+
+p {
+    margin: 1em 0;
+}
+
+blockquote {
+    border-left: 5px solid;
+    padding: 0 0 0 1em;
+}
+
+body {
+    background-color: $raisinblack;
+    color: $white;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+}
+
+@media (max-width: 26.563rem) {
+    body {
+        max-width: 30ch;
+    }
+}
+
+@media (min-width: 26.564rem) and (max-width: 47.9rem) {
+    body {
+        max-width: 45ch;
+    }
+}
+
+@media (min-width: 48rem) {
+    body {
+        max-width: 80ch;
+    }
+}
