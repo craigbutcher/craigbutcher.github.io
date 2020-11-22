@@ -25,7 +25,7 @@ Suddenly, I'm automatically heading over to the x86 area where my needs are stro
 
 3397 words so far in a space of three days.
 
-I could have been up around 12,904 however with a demanding family life (being a deaf parent is exhausting), work, and a mental health that has taken a beating. Interesting though that I have discovered a trigger that has prevented myself from writing for my blog for nearly five years. Week notes is a step ahead to get back into writing.
+I could have been up around 12,904. With a demanding family life (being a deaf parent is exhausting), work, and a mental health that has taken a beating. Interesting though that I have discovered a trigger that has prevented myself from writing for my blog for nearly five years. Week notes is a step ahead to get back into writing.
 
 I will try my best to complete NaNoWriMo yet right now, it's too challenging to pay my full attention too at the moment.
 

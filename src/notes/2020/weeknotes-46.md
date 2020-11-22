@@ -37,7 +37,7 @@ Before you want to read on about macOS Big Sur, you might want to read [Intel's 
 
 I haven't been following much of the WWDC regarding the next version of macOS and for the first time, I was excited about installing this onto my six months old Macbook Air 2020, after backing up everything, the first hurdle was to install a clean version of Big Sur because I cannot seem to trust the upgrade path on macOS.
 
-It was a dodgy start because it fails to allow me to boot from USB external media. Even Apple's [About Startup Security Utility](https://support.apple.com/en-gb/HT208198) was a good point of reference and nothing was working. I suspect I have a broken USB drive and ended up opting to boot back to macOS Catalina via internet recovery, install Big Sur, and reinstall. It was a mess however lessons were learnt here about internet recovery being an incredibly useful tool.
+It was a dodgy start because it fails to allow me to boot from USB external media. Even Apple's [About Startup Security Utility](https://support.apple.com/en-gb/HT208198) was a good point of reference and nothing was working. I suspect I have a broken USB drive and ended up opting to boot back to macOS Catalina via internet recovery, install Big Sur, and reinstall. It was a mess and lessons were learnt here about internet recovery being an incredibly useful tool.
 
 What I absolutely love about Big Sur is the look and feel of it, everything feels tied together, the space between the words in the menu seems easier to read (I'm in my early 40s, this is a bonus) including the fact that everything seems reworked.
 
