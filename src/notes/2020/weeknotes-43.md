@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Forty Three - The price of living
+title: Week Note Forty Three - The Price of Living
 description: Week Note Forty Three
 date: '2020-10-25'
 tags:
