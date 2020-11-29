@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Week Note Forty Six - Effortless
+title: Week Note Forty Seven - Effortless
 description: Week Note Forty Seven
-date: '2020-11-15'
+date: '2020-11-22'
 tags:
   - weeknotes
 ---
