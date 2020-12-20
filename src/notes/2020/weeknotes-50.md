@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Week Note Fifty - Crunch time.
 description: Week Note Fifty
-date: '2020-12-06'
+date: '2020-12-13'
 tags:
   - weeknotes
 ---
