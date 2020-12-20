@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Fifty One - One week before 2021
+title: Week Note Fifty One - The exit is in sight!
 description: Week Note Fifty One
 date: '2020-12-20'
 tags:
