@@ -15,7 +15,7 @@ I have no words for this anymore because the goalposts are constantly being move
 
 ## And the UK Government gets sued
 
-New source: [BREAKING: UK Government sued over lack of sign language interpreter at COVID briefings](https://limpingchicken.com/2020/12/18/breaking-uk-government-sued-over-lack-of-sign-language-interpreter-at-covid-briefings/)
+News source: [BREAKING: UK Government sued over lack of sign language interpreter at COVID briefings](https://limpingchicken.com/2020/12/18/breaking-uk-government-sued-over-lack-of-sign-language-interpreter-at-covid-briefings/)
 
 Why? Because of the lack of a BSL (British Sign Language) interpreter. Being Deaf first and foremost, it is vital for services to provide an interpreter at any time because it is a given right. When you look towards other countries that excels in providing an interpreter on stage, the United Kingdom has completely dropped off the radar and are often referred us to "Use the BBC News service to see theirs". We do not want to be relying on a third party source where we need an official one at No. 10 Downing Street.
 
