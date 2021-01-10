@@ -13,7 +13,7 @@ What nonsense is this? 2021? As if! I have been sat here trying to write a crack
 
 On a serious note, the first few days has seen [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) hit the magical $34,000 (roughly £24864.57), there are some wild predictions of it hitting $150k this year yet that is completely far-fetched. Never say never in this world of unstable turbulent coin market.
 
-Other news, the Horrible Tories continues to bait and switch themselves on the advices of schools should remain open if they are in Tier 4. The backlash of councils around the United Kingdom decided to go against the UK Government to remain close. COVID-19 is rampant and why should we take further risks?
+Other news, the Horrible Tories continues to bait and switch themselves on the advices of schools should remain open if they are in Tier 4. The backlash of councils around the United Kingdom decided to go against the UK Government to remain closed. COVID-19 is rampant and why should we take further risks?
 
 Can Tier 5 be named [Ravenholm](https://www.youtube.com/watch?v=kz71F34UyIM)? Anyone agrees with this?
 
