@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Week Note One - 2020 +1
-description: Week Note One
+description: 2021 - Week Note One 2021
 date: '2021-01-03'
 tags:
   - weeknotes

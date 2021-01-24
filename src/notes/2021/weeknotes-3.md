@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Week Note Three - National Lampoon's Vaccine
-description: Week Note Three
+description: 2021 - Week Note Three
 date: '2021-01-17'
 tags:
   - weeknotes

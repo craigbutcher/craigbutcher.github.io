@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Week Note Two - Zero days since last incident
-description: Week Note Two
+description: 2021 - Week Note Two
 date: '2021-01-10'
 tags:
   - weeknotes
