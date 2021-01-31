@@ -7,8 +7,5 @@ eleventyNavigation:
   order: 2
 ---
 
-Best things said in threes, fives, and sevens.
+Deaf. Books. Code. Coffee. Retro Gamer. Vaporwave.
 
-+ Front End Web Dev for Aviva.
-+ Sweary Edgelord.
-+ Has a rad bionic ear - cochlear implant if you must know.
