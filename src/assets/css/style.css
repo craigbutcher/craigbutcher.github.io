@@ -174,7 +174,11 @@ nav {
 
 ul {
     margin: 0;
-    padding: 0 0 0 1rem;
+    padding: 0 0 1rem 1rem;
+}
+
+ul li {
+    margin: 0 0 1rem;
 }
 
 p {
