@@ -185,6 +185,15 @@ p {
     margin: 1rem 0;
 }
 
+h1 small {
+    font-size: 0.8rem;
+    vertical-align: middle;
+}
+
+.heart {
+    color: red;
+}
+
 blockquote {
     border-left: 5px solid;
     padding: 0 0 0 1rem;
