@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Six -
+title: Week Note Six - Ain't thinking
 description: 2021 - Week Note Six
 date: '2021-02-07'
 tags:
