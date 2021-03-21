@@ -47,3 +47,15 @@ Overall, it's an impressive little keyboard and the price seems to be bang in th
 The slight downside is that the brown optical switches can be a little too sensitive depending if you are [fat-finger error](https://en.wikipedia.org/wiki/Fat-finger_error) the keys, wondering where the british pound symbol, hash key, and generally being a right pain. In general, take your time to learn and understand the hardware quirks because that is what makes different and unusual keyboard so much fun to use.
 
 More on this keyboard next week as we head into week two of typing.
+
+## Second week review - 21/03/2021
+
+Looking back at this review from the first week and thinking how much of a progress was made. I would say it is more or less the same because I have jumped to three different keyboards which was out of my control at the time. Since the Keychron K3 is my daily driver, switch to the Mac's GB layout causes the backslash and pipe symbol to show up repeatedly via the right ring finger and pinkie tapping expecting the long return key to be there.
+
+Another issue is the light symbol at the top right of the keyboard, was hit a couple of times causing light effects to change. Intriguing enough, the habit of hitting the 'delete' key next to that key forced the idea to not to rely on deleting anything if possible. Changing habits _per keyboard_ is another matter!
+
+Recently the USB hub that was connected to the USB-C dongle has been failing lately forcing to switch from cable to bluetooth. The hope of "there's a latency issue" immediately vanished from the first five minutes and it was snappier than before.
+
+On the [Keychron](https://www.keychron.com/) site, the [wooden palm rest](https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest?variant=32364078989401) looks like an excellent buy to complete the collection. Also the [travel pouch](https://www.keychron.com/products/keychron-k3-travel-pouch) is an option yet does not fit in the vegan lifestyle that I now have.
+
+The hunt is on looking for a decent keycap set to see what's what can fit.
