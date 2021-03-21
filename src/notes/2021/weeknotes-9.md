@@ -43,6 +43,6 @@ While discussing about the M1, the following sentence was mentioned:
 
 > It is incredible that this is the first slowest Apple Silicon to be launched.
 
-This is a clever statement in itself. We all know that this is the first Apple chipset to come out and instantly beating Intel and AMDs on all benchmark tests, then we know that this is a two years transition period where all Mac products will have the new chipset. What specs will be is clearly going to be heavily speculated at this point!
+This is a clever statement in itself. We all know that this is the first Apple chipset to come out and instantly beating Intel and AMDs on all benchmark tests, then we know that this is a two years transition period where all Mac products will have the new chipset. What specs will be is going to be heavily speculated at this point!
 
 Stay safe, forward the vaccinations!
