@@ -27,7 +27,7 @@ Let's have some good news for once! The new laptop has arrived and I'm utterly s
 
 Come to think of it, this is my third adaption of different chipsets. I do recall the [PowerPC](https://en.wikipedia.org/wiki/PowerPC) G4, [the transition to Intel](https://en.wikipedia.org/wiki/Mac_transition_to_Intel_processors), and now [the transition to Apple Silicon](https://en.wikipedia.org/wiki/Mac_transition_to_Apple_Silicon) begins. I have always felt that Intel's chipset were solid right in the beginning yet their laptop range was marred with issues such as heat, Nvidia arguments, and bugs.
 
-This M1 is clearly going to change the computing scene and I do hope the competition will start hotting up in the ARM market at long last.
+This M1 is going to change the computing scene and I do hope the competition will start hotting up in the ARM market at long last.
 
 ## And finally...
 
