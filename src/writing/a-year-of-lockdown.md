@@ -8,8 +8,6 @@ tags:
   - life
 ---
 
-## A year of lockdown
-
 Looking back at the turn of the new year into 2020, it was going to be the year that the United Kingdom leaving the EU because of the Brexit vote. There were rumours about a virus that was identified in Wuhan, China, in December 2019.
 
 It was a small blip on the scale until the scale of the pandemic starts to build very slowly over the weeks with new cases prompting the world news to look and understand what is happening.
