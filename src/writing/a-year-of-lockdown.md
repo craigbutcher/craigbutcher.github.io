@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: A year of lockdown
 description: From 23rd March 2020, the United Kingdom went into a full lockdown to curb the spread of COVID-19. One year later, we are still fighting this virus.
-date: '2021-03-14'
+date: '2021-03-23'
 tags:
   - writing
   - life
