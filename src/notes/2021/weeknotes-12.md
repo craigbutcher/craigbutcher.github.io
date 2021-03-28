@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Week Note Twelve - The battle of the vaccines
+title: Week Note Twelve - The Battle of The Vaccines
 description: 2021 - Week Note Twelve
 date: '2021-03-21'
 tags:
@@ -23,7 +23,7 @@ Give it a try and see what you think!
 
 ## Leviathan Wakes
 
-Huzzah! The first book of The Expanse had begun. It's a solid and enjoyable read so far. The explanation of _the juice_ makes a whole lot of sense in terms of why it is required and what happens to the body afterwards, how did the humans spread themselves among the solar system, gravity, and the functionality of ships. It is all shaping up to the second novel in the series, Caliban's War, nicely. 
+Huzzah! The first book of The Expanse had begun. It's a solid and enjoyable read so far. The explanation of _the juice_ makes a whole lot of sense in terms of why it is required and what happens to the body afterwards, how did the humans spread themselves among the solar system, gravity, and the functionality of ships. It is all shaping up to the second novel in the series, Caliban's War, nicely.
 
 ## And finally...
 
