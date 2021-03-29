@@ -172,17 +172,22 @@ nav {
     margin: 0 0 1rem;
 }
 
-ul {
+ol, ul {
     margin: 0;
-    padding: 0 0 1rem 1rem;
+    padding: 1rem 1.4rem 0;
 }
 
+.tmpl-post ol li,
 .tmpl-post ul li {
     margin: 0 0 1rem;
 }
 
 p {
     margin: 1rem 0;
+}
+
+blockquote p {
+    line-height: 1.5rem;
 }
 
 h1 small {
