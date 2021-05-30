@@ -59,3 +59,17 @@ Recently the USB hub that was connected to the USB-C dongle has been failing lat
 On the [Keychron](https://www.keychron.com/) site, the [wooden palm rest](https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest?variant=32364078989401) looks like an excellent buy to complete the collection. Also the [travel pouch](https://www.keychron.com/products/keychron-k3-travel-pouch) is an option yet does not fit in the vegan lifestyle that I now have.
 
 The hunt is on looking for a decent keycap set to see what's what can fit.
+
+## Two months later - 30/05/2021
+
+### Spongy switches
+
+It came to my attention that three of the switches has started to produce "the spongy effect" when typing. Unfortunately, the keys affected was the 'end' and right arrow key. Not a problem to replace however there should be a warning on handling Keychron's optical switches because they are delicate and fell apart once removed from the board. Luckily, there is a bag of additional switches on hand to replace.
+
+### Cleaning
+
+In that amount of time since the last update, it was time to clean the keyboard to see how well it has held up. Surprisingly, it was fairly okay! There was a little amount of dust, a few crumbs, and the odd hair / cats hairs. This was expected because the keyboard is completely 'open' which meant it is easier to clean out certain bits comparing to the other keyboard that has around 0.5" 'well' where it meant some additional cleaning.
+
+### An annoyance
+
+The keyboard light key is still an annoyance on and off. The chances of hitting that key by mistake has reduced and none of the settings really pleases me as it is purely eye candy. Either have the light on or off is far easier to maintain!
