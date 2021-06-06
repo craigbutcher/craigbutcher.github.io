@@ -115,7 +115,7 @@ body {
 
 @media (max-width: 26.563rem) {
     body {
-        max-width: 30ch;
+        max-width: 38ch;
     }
 }
 
@@ -204,3 +204,112 @@ blockquote {
     padding: 0 0 0 1rem;
 }
 
+
+
+
+/* Grid */
+
+
+@supports (display: grid) {
+
+	.grid {
+		display: grid;
+		margin: 0 auto 2rem;
+		width: 90%;
+		max-width: 1440px;
+	}
+
+	@media (max-width: 47.9em) {
+		.box {
+			margin: 0 0 1rem;
+			width: 100%;
+		}
+	}
+
+	@media (min-width: 48rem) {
+
+		.grid {
+			grid-template-columns: repeat(12, 1fr);
+			grid-gap: 2rem;
+		}
+
+		.one {
+			grid-column: span 1;
+		}
+
+		.two {
+			grid-column: span 2;
+		}
+
+		.three {
+			grid-column: span 3;
+		}
+
+		.four, .thirty {
+			grid-column: span 4;
+		}
+
+		.five {
+			grid-column: span 5;
+		}
+
+		.six, .even {
+			grid-column: span 6;
+		}
+
+		.seven {
+			grid-column: span 7;
+		}
+
+		.eight, .sixty {
+			grid-column: span 8;
+		}
+
+		.nine {
+			grid-column: span 9;
+		}
+
+		.ten {
+			grid-column: span 10;
+		}
+
+		.eleven {
+			grid-column: span 11;
+		}
+
+		.twelve, .full {
+			grid-column: 1 / -1;
+		}
+
+	}
+}
+
+
+/* Bingo card layout */
+
+.bingo-card {
+    background-color: #fff;
+    padding: 1rem 2rem 2rem;
+}
+
+.bingo-card h3 {
+    color: #444;
+    text-align: center;
+}
+
+.bingo-card ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.bingo-card ul li {
+    align-items: center;
+    border: 1px solid #444;
+    color: #444;
+    display: flex;
+    height: 5rem;
+    justify-content: center;
+    min-width: 7rem;
+    text-align: center;
+}
