@@ -35,10 +35,10 @@ Mistakes will be made throughout the first week in terms (in no order)
 + Accidentally hitting the change LED pattern 'light bulb' key where it gets really fancy. Sometimes it is too much and deserve a key remapping!
 + Hitting the left shift feels weird for a few hours expecting where is the back slash / pipe symbol.
 + Introduced a few whacky symbols into the code which was my own doing!
-+ Never pair bluetooth to Windows or macOS. The first ten minutes resulted into an annoying latency that was often tiny to be detected. It is all too easy to sense that lag.
++ Never pair bluetooth to Windows. The first ten minutes resulted into an annoying latency that was often tiny to be detected.
 + Muscle memory training can be a right pain.
 
-After the first hour of making simple mistakes, it is easy to pack it back into the box yet this is going to be the main driver for two solid weeks. The solution? Move the keyboard slightly to where the spacebar line LED shines where your left thumb covers it up completely and away I went typing at a solid speed that I enjoy.
+After the first hour of making simple mistakes, the temptation to pack it back into the box yet this is going to be the main driver for two solid weeks. The solution? Move the keyboard slightly to where the spacebar line LED shines where your left thumb covers it up completely and away I went typing at a solid speed that I enjoy.
 
 ## One week review in short - 14/03/2021
 
@@ -64,7 +64,7 @@ The hunt is on looking for a decent keycap set to see what's what can fit.
 
 ### Spongy switches
 
-It came to my attention that three of the switches has started to produce "the spongy effect" when typing. Unfortunately, the keys affected was the 'end' and right arrow key. Not a problem to replace however there should be a warning on handling Keychron's optical switches because they are delicate and fell apart once removed from the board. Luckily, there is a bag of additional switches on hand to replace.
+It came to my attention that three of the switches has started to produce "the spongy effect" when typing. Unfortunately, the keys affected was the 'end' and right arrow key. Not a problem to replace, although there should be a warning on handling Keychron's optical switches because they are fragile and fell apart once removed from the board. Luckily, there is a bag of additional switches on hand to replace.
 
 ### Cleaning
 

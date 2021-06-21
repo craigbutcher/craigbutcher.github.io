@@ -12,7 +12,7 @@ tags:
 An utter gem from [a friend](https://cyculpin.com) (he loves making decals!) who has been encouraging myself to unlock my creativity that has been vacant since 2012. Here is a rough summary:
 
 > If you are struggling for creativity, draw the first thing that comes to your mind and stop.
-> Just draw it. Even if it is not related so you can get the juice flowing, then draw something related to it. A word association game is another angle too!
+> Draw it. Even if it is not related so you can get the juice flowing, then draw something related to it. A word association game is another angle too!
 
 This will switch off the nonsense chatter in the brain and allow us to focus on one single thing at a time. I will documenting this as I go along in order to change some habits that I had unwisely developed.
 

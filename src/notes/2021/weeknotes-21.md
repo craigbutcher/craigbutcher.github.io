@@ -25,7 +25,7 @@ Currently there is 11 days left in this campaign and hitting nearly 600% of the 
 
 ## trustd in macOS
 
-This is an annoying bug happening where trustd randomly starts taking up 100% of the CPUs and it seems it's a common issue after reading [the thread on Reddit](https://www.reddit.com/r/mac/comments/n6f8ef/process_trustd_high_cpu_usage/). There is a great write up on [lapcatsoftware - trustd](https://lapcatsoftware.com/articles/trustd.html) and obviously after [Apple verification server issue](https://www.theverge.com/2020/11/12/21563092/apple-mac-apps-load-slow-big-sur-downloads-outage-down-issues) that happened, this needs to be resolves ASAP.
+This is an annoying bug happening where trustd randomly starts taking up 100% of the CPUs and it seems it's a common issue after reading [the thread on Reddit](https://www.reddit.com/r/mac/comments/n6f8ef/process_trustd_high_cpu_usage/). There is a great write up on [lapcatsoftware - trustd](https://lapcatsoftware.com/articles/trustd.html) and after [Apple verification server issue](https://www.theverge.com/2020/11/12/21563092/apple-mac-apps-load-slow-big-sur-downloads-outage-down-issues) that happened, this needs to be resolves ASAP.
 
 ## And finally...
 

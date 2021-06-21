@@ -9,9 +9,9 @@ tags:
 
 ## WWDC 2021
 
-```<sarcasm>``` Darn it, no hardware announcement yet it's obviously a software announcement!```</sarcasm>```
+```<sarcasm>``` Darn it, no hardware announcement yet it's a software announcement!```</sarcasm>```
 
-There was a lot to unpack especially with all OS going through the next round of upgrades. iOS 15, watchOS 8, and macOS Monterey looks set to be taking the OS further however iPadOS is somewhat stuck on its own.
+There was a lot to unpack especially with all OS going through the next round of upgrades. iOS 15, watchOS 8, and macOS Monterey looks set to be taking the OS further yet iPadOS is somewhat stuck on its own.
 
 What is particularly striking was the idea of 'Focus' where we can signal our status to others that we are busy concentrating at the task. It is a much needed option in order to regain our own well being and cutting out the 'chatter' of other apps that does not require our attention.
 

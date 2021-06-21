@@ -27,9 +27,9 @@ It will be interesting to see what will happen in this field for the next few ye
 
 ## Linux Emporium
 
-Back in the late 90s, if you were lucky to have a decent ISDN or happened to work at a university using a high speed network connection called [JANET](https://en.wikipedia.org/wiki/JANET) then getting hold of a Linux distribution would have been easy providing you had a CD burner or a friend who happened to had one to burn a copy.
+Back in the late 90s, if you were lucky to have a decent ISDN or happened to work at a university using a high speed network connection called [JANET](https://en.wikipedia.org/wiki/JANET) then getting hold of a Linux distribution would have been handy providing you had a CD burner or a friend who happened to had one to burn a copy.
 
-For the rest of us, we bought a copy of many distributions from [Linux Emporium](https://web.archive.org/web/20020328135616/http://www.linuxemporium.co.uk/) or official box sets. Looking back, installing Linux on the aging 486sx33 was _fun_ to say the least until after months of saving to get a _fast_ PII 233mhz PC. It was not easy to follow the guidelines of installing the operating system until Mandrake Linux came along.
+For the rest of us, we bought a copy of many distributions from [Linux Emporium](https://web.archive.org/web/20020328135616/http://www.linuxemporium.co.uk/) or official box sets. Looking back, installing Linux on the aging 486sx33 was _fun_ to say the least until after months of saving to get a _fast_ PII 233mhz PC. It was not fun to follow the guidelines of installing the operating system until Mandrake Linux came along.
 
 Hats off to Linux Emporium that made us survive the times when we needed the growing popularity of Linux.
 

@@ -39,4 +39,8 @@ Docker decided to throw a hissy fit and somewhat the build for 11ty is broken. T
 failed to solve: rpc error: code = Unknown desc = failed to solve with frontend dockerfile.v0: failed to create LLB definition: pull access denied, repository does not exist or may require authorization: server message: insufficient_scope: authorization failed
 ```
 
+### Update 21/06/2021:
+
+Turns out there was no docker image. Ran the command ```docker images``` reveals the container exists. A quick rebuild of the container, and things are back up and running. Yay!
+
 Stay safe, the warm weather will make a return...!

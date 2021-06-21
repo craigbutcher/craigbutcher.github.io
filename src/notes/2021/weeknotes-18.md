@@ -9,7 +9,7 @@ tags:
 
 ## The Mitchells vs the Machines
 
-On the back of last week mayhem along with everything else happening including a much deserved bank holiday weekend, we kicked back and watched The Mitchells vs the Machines on Netflix. The result? We absolutely love it and could not stop laughing throughout. It definitely touched on a lot of issues of relying on the Wi-Fi, AI going to go berserk (not really...), and of course, family issues. Zany, colourful, and running in parallels with memes, YouTube, and pure weirdness. Love it!
+On the back of last week mayhem along with everything else happening including a much deserved bank holiday weekend, we kicked back and watched The Mitchells vs the Machines on Netflix. The result? We absolutely love it and could not stop laughing throughout. It definitely touched on a lot of issues of relying on the Wi-Fi, AI going to go berserk, and the classic family issues. Zany, colourful, and running in parallels with memes, YouTube, and pure weirdness. Love it!
 
 [Check out the trailer over at YouTube.](https://www.youtube.com/watch?v=_ak5dFt8Ar0)
 

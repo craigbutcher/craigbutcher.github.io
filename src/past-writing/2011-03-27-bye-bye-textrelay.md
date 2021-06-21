@@ -15,7 +15,7 @@ For years, I had ditched this service completely and rely solely on e-mails, con
 
 A minicom (it is known as a textphone) looks like the one in the picture.
 
-![Can you just die Minicom?!](/content/images/2014/Jan/minicom_large_300x210_jngzea.jpg)
+![Can you go away please Minicom?!](/content/images/2014/Jan/minicom_large_300x210_jngzea.jpg)
 
 What was once brilliant last century is now obsolete in today's world. These minicom are bulky device with one or two line text display where you will have to remember much of the conversation and scrolling up during the call is nigh on impossible.
 

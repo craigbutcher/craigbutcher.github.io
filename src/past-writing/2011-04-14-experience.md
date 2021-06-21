@@ -13,7 +13,7 @@ It is called experience.
 
 Last night, my wife and I went to see the <a href="http://derrenbrown.co.uk/">Derren Brown</a> performance "<a href="http://derrenbrown.co.uk/tour-dates/svengali/">Svengali</a>" at <a href="http://www.theatreroyalnorwich.co.uk/">Norwich Theatre Royal</a>. The only noticeable difference is that we are hearing impaired so when it comes to performance like this, an interpreter would be suitable for us. After a few e-mail exchanges with the theatre, it wasn't possible to have an interpreter because Derren is what you call unpredictable. You have no idea what he would do!
 
-We went ahead to go for the experience and it was the best move we have done. By just going and being positive about this. We understood what he was going to do, we watched him perform them and we were interacting immediately from the start.
+We went ahead to go for the experience and it was the best move we have done. We understood what he was going to do, we watched him perform them and we were interacting immediately from the start.
 
 What happened there?
 
