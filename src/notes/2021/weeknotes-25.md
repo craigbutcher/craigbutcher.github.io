@@ -41,6 +41,6 @@ failed to solve: rpc error: code = Unknown desc = failed to solve with frontend 
 
 ### Update 21/06/2021:
 
-Turns out there was no docker image. Ran the command ```docker images``` reveals the container exists. A quick rebuild of the container, and things are back up and running. Yay!
+Turns out there was no docker image. Ran the command ```docker images``` reveals the container exists. The solution to rebuild of the container, and things are back up and running. Yay!
 
 Stay safe, the warm weather will make a return...!
