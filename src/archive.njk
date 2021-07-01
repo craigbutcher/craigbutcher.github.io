@@ -6,11 +6,10 @@ navTitle: Archive
 permalink: /archive/
 eleventyNavigation:
   key: Archive
-  order: 3
+  order: 4
 ---
 
 <h3>Writing</h3>
-
 {% set postslist = collections.writing %}
 {% include "postslist.njk" %}
 
@@ -18,8 +17,10 @@ eleventyNavigation:
 {% set postslist = collections.pastwriting %}
 {% include "postslist.njk" %}
 
-<h3>Week Notes</h3>
-
-{% set postslist = collections.weeknotes %}
+<h3>Quick Bites</h3>
+{% set postslist = collections.quickbites %}
 {% include "postslist.njk" %}
 
+<h3>Week Notes</h3>
+{% set postslist = collections.weeknotes %}
+{% include "postslist.njk" %}

@@ -4,10 +4,8 @@ title: RSS feed
 templateClass: tmpl-post
 eleventyNavigation:
   key: RSS
-  order: 4
+  order: 5
 ---
-
-
 
 + [XML](/feed/main.xml)
 + [JSON](/feed/main.json)

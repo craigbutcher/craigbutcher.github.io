@@ -1,0 +1,21 @@
+---
+layout: layouts/page.njk
+title: Quick Bites Archives
+tags:
+    - nav
+navTitle: Quick Bites
+permalink: /quickbites/
+eleventyNavigation:
+  key: Quick Bites
+  order: 3
+---
+
+<h2>What is this?</h2>
+
+<p>It is mostly about things that I like to demo, what holds my interest like websites, articles, or whatever that amuses me. The web is a big place and we can only do it in bite sizes to consume.</p>
+
+<p>Also it is a place where it stops myself from creating 300+ bookmarks / saved tabs in the browser. The web is a big search input form!</p>
+
+{% set postslist = collections.quickbites %}
+
+{% include "postslist.njk" %}

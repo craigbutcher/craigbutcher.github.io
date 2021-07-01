@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/page.njk
 title: About Me
 templateClass: tmpl-post
 eleventyNavigation:
@@ -7,5 +7,4 @@ eleventyNavigation:
   order: 2
 ---
 
-Deaf. Books. Code. Coffee. Retro Gamer. Vaporwave.
-
+Books. Coffee. Deaf. Front End Dev. Future Funk. Retro Gamer. Vaporwave. Vegan.
