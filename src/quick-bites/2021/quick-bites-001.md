@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Quick Bites - 001
-description: 2021 - Quick Bites 001
+title: Quick Bites - Oh hey there!
+description: 2021 - Oh hey there! - Quick Bites 001
 date: '2021-07-01'
 tags:
   - quickbites
