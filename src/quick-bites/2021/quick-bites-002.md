@@ -15,7 +15,7 @@ Léonie's post about [How screen readers navigate data tables](https://tink.uk/h
 
 Code a game using only HTML5 and JavaScript? Easy? How about doing it up to 13 kilobytes file size? The challenge is amusing and there has been some awesome games produced. Check out [js13kgames](https://js13kgames.com/) if you like to enter!
 
-## Long form reading - The Lazarus heist
+## The Lazarus heist
 
 This is something straight out of a script writer's dream at Hollywood. [BBC News: The Lazarus heist: How North Korea almost pulled off a billion-dollar hack](https://www.bbc.co.uk/news/stories-57520169) is a gripping read.
 
