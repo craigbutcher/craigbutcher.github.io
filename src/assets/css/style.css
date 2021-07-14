@@ -99,16 +99,56 @@ select {
 /*
     2) Colors
 */
+
+/*
+    Colors
+*/
+
+
 :root {
+
+
+
+    --color-red: rgb(255,99,71);
+    --color-green: rgba(0,170,85,1);
+
+    --color-white: hsla(0, 0%, 100%, 1);
+    --color-text: hsla(0, 0%, 16%, 1);
+
+    --color-warning: hsla(9, 100%, 63.9%,1);
+    --color-success: hsla(150, 100%, 33%, 1);
+
+    --color-grey: hsla(0, 0%, 66.7%,1);
+    --color-shadow: hsla(0, 0%, 80%, 0.5);
+
+    /* SMOKY BLACK */
+    --color-smokyblack: hsla(210%, 11%, 4%, 1);
+
+    /* QUICK SILVER */
+    --color-quicksilver: hsla(283%, 4%, 65%, 1);
+
+    /* WHITE SMOKE */
+    --color-whitesmoke: hsla(140%, 16%, 96%, 1);
+
+    /* DAVY'S GRAY */
+    --color-davysgray: hsla(214%, 4%, 35%, 1);
+
+    /* RAISIN BLACK */
+    --color-raisinblack: hsla(130%, 8%, 15%, 1);
+
+    /* Hansa Yellow */
+    --color-hansayellow: hsla(44.9, 80.9%, 69.2%, 1);
+
     --color-white: hsla(0, 100%, 100%, 1);
     --color-raisinblack: hsla(130, 8%, 15%, 1);
     --color-hansayellow: hsla(44.9, 80.9%, 69.2%, 1);
     --font-IBM: 'IBM Plex Sans Condensed', sans-serif;
+
 }
 
 body {
-    background-color: var(--color-raisinblack);
-    color: var(--color-white);
+    background-color: var(--color-white);
+    color: var(--color-smokyblack);
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
 }
@@ -133,7 +173,7 @@ body {
 
 h1, h2, h3, h4, h5 {
     display: block;
-    color: var(--color-white);
+    /* color: var(--color-white); */
     font-family: var(--font-IBM);
     padding: 0.5rem 0;
 
@@ -164,8 +204,8 @@ h5 {
 }
 
 a {
-    background-color: var(--color-raisinblack);
-    color: var(--color-hansayellow);
+    /* background-color: var(--color-raisinblack); */
+    color: var(--color-raisinblack);
 }
 
 nav {
@@ -204,6 +244,10 @@ blockquote {
     padding: 0 0 0 1rem;
 }
 
+time {
+    display: block;
+    margin-bottom: 1rem;
+}
 
 
 
@@ -214,7 +258,7 @@ blockquote {
 
 	.grid {
 		display: grid;
-		margin: 0 auto 2rem;
+		margin: 2rem auto 2rem;
 		width: 90%;
 		max-width: 1440px;
 	}
@@ -312,4 +356,13 @@ blockquote {
     justify-content: center;
     min-width: 7rem;
     text-align: center;
+}
+
+.tmpl-post, .quick-bites {
+    background-color: white;
+    border: 2px solid #000;
+    box-shadow: -4px 4px #000;
+    color: #000;
+    padding: 1rem;
+
 }

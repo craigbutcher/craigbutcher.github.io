@@ -21,6 +21,6 @@ Rustled up a quick CodePen demo about CSS Scroll Snap before Lockdown 2020 happe
 
 [Una Kravets' Codepen](https://codepen.io/una/pen/LYxvbqb) demos how it works. Always link your ```<label>``` with the input form because it helps the user out in many ways than you think.
 
-## Track of the week
+## Music track of the week
 
 [Sleaford Mods - Mork n Mindy Ft. Billy Nomates](https://www.youtube.com/watch?v=iKcbSOjIzjQ) - Straight from the album [Spare Ribs](https://sleafordmods.ffm.to/spareribs) launched in January 2021. If you like electro-punk minimalist kind of music, you will like this. The lyrics is something else focusing on the mood of the United Kingdom and telling it how it is.
